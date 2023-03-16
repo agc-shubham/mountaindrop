@@ -1,0 +1,143 @@
+h1{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	font-size: 3rem;
+	line-height: 1.5;
+}
+
+p{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.container-fluid{
+	padding: 3% 15%;
+}
+.row{
+	padding-top: 2%;
+}
+.title{
+	background-color: #40bad5;
+	color:#fff;
+}
+
+.jumbotron{
+    background-color: inherit;
+
+	
+}
+.navbar > img{
+	width: 10%;
+	height: 10%;
+}
+.card{
+	background-color: inherit;
+	border:none;
+}
+.btn-dark{
+	background-color: #00263b;
+}
+
+/*features*/
+#features{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #fff;
+    position: relative;
+}
+
+ .feature{
+	padding: 5%;
+}
+
+
+icon{
+
+	margin-bottom: 1rem;
+	color: #00dbde;
+}
+icon:hover{
+
+	color: #fc00ff;
+}
+
+/*testimonials*/
+#testimonial-slider{
+	padding: 7% 15%;
+	text-align: center;
+	/*background-color: #40bad5;*/
+	color: #fff;
+}
+.testimonial-image{
+	width: 10%;
+	border-radius: 100%;
+	margin: 20px;
+}
+
+/*pricing*/
+#pricing{
+	padding: 100px;
+	text-align: center;
+}
+#pricing h2{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	font-size: 3rem;
+	line-height: 1.5;
+	color: #000;
+
+}
+#pricing h3{
+	padding: 10%;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 2.5rem;
+	line-height: 1.5;
+	color: #000;
+}
+#pricing a{
+	margin-top: 10%;
+}
+.pricing-column{
+	padding: 2% 3%;
+	text-align: center;
+}
+#cta{
+	background-color: #40bad5;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	line-height: 1.5;
+	text-align: center;
+	padding: 7% 15%;
+}
+.download-buttons{
+	margin: 5% 3% 5% 0;
+}
+#cta >h3{
+	color:#fff;
+	margin-bottom: 20px;
+
+}
+
+/*footer*/
+#footer{
+	text-align: center;
+}
+
+.social-media{
+	padding: 2% 1%;
+}
+.linear-gradient{
+	background: #fc00ff;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #00dbde, #fc00ff);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #fc00ff, #00dbde); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+
+}
+.linear-gradient1{
+	background: #457fca;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #5691c8, #457fca);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #5691c8, #457fca); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
