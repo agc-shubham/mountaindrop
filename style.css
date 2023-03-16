@@ -15,6 +15,7 @@ p{
 .row{
 	padding-top: 2%;
 }
+
 .title{
 	background-color: #40bad5;
 	color:#fff;
@@ -128,7 +129,7 @@ icon:hover{
 }
 .linear-gradient{
 	background: #fc00ff;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #00dbde, #fc00ff);  /* Chrome 10-25, Safari 5.1-6 */
+background: -webkit-linear-gradient(to right, #fc00ff, #00dbde);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, #fc00ff, #00dbde); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 
@@ -137,7 +138,7 @@ background: linear-gradient(to right, #fc00ff, #00dbde); /* W3C, IE 10+/ Edge, F
 }
 .linear-gradient1{
 	background: #457fca;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #5691c8, #457fca);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #5691c8, #457fca); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(to right,#00dbde, #5691c8);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #00dbde, #5691c8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
